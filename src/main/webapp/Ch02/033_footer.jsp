@@ -1,18 +1,8 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Insert title here</title>
-</head>
-<body>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 
+<!-- 033_footer.jsp -->
 <hr>
-<div id = "copyright">
+<div id="copyright">
 All contents Copyright 2019 all rights reserved<br>
-Contact mail : abc@abc.com Tel:+92 83 88
+Contact mail : abc@abc.com Tel: +82 64 9876 1111
 </div>
-
-</body>
-</html>
