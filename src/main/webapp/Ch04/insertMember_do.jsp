@@ -42,7 +42,7 @@ try{
 		if(pstmt!=null)pstmt.close();
 	}catch(Exception e){e.printStackTrace();
 	}
-}
+	}
 response.sendRedirect("MemberMGR.jsp");
 
 %>

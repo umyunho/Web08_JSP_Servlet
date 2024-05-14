@@ -9,7 +9,7 @@
 <body>
 
 <h2>회원의 정보 입력 폼</h2>
-<form method="post" action="insertMember_do.jsp">
+<form method="post" action="insertMember.do.jsp">
    <table>
       <tr><td>아이디</td><td><input type="text" name="userid" size="20"></td></tr>
       <tr><td>이름</td><td><input type="text" name="name" size="20"></td></tr>
